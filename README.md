@@ -12,7 +12,7 @@ To get started, open the index.html file to find instructions and examples. You'
 ######Welcome <h6>
 
 
-[CINO] (http://globaldatebooksonline.com/flipbooks/coastal2012/files/assets/basic-html/page1_images/0001.jpg)
+![CINO] (http://globaldatebooksonline.com/flipbooks/coastal2012/files/assets/basic-html/page1_images/0001.jpg)
 
 [Visit Coastal!] (https://www.coastal.edu)
 
