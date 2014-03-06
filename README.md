@@ -18,4 +18,4 @@ To get started, open the index.html file to find instructions and examples. You'
 
 Learn about [Freshman Admission] (http://www.coastal.edu/admissions/freshman.html) at Coastal!
 
-This is Blue #FF0000
+#FF0000 This is Blue 
