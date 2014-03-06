@@ -5,11 +5,11 @@ Your Public Site
 
 To get started, open the index.html file to find instructions and examples. You'll start your editing there!
  
- Elliott Linen
+ **Elliott Linen**
  
- **This is my bolded text**
 
-##### Welcome <h5>
+
+######## Welcome <h8>
 
 
 [CINO] (http://globaldatebooksonline.com/flipbooks/coastal2012/files/assets/basic-html/page1_images/0001.jpg)
