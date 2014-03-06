@@ -17,3 +17,5 @@ To get started, open the index.html file to find instructions and examples. You'
 [Visit Coastal!] (https://www.coastal.edu)
 
 Learn about [Freshman Admission] (http://www.coastal.edu/admissions/freshman.html) at Coastal!
+
+This is Blue
